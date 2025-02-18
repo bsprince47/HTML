@@ -35,7 +35,7 @@
 | `<mark>`                                     | marked/highlighted text          |
 | [`<meter>`](/Tags/meter.md)                                    | Defines a scalar measurement within a known range (a gauge) |
 | `<pre>`                                      | Defines preformatted text                |
-| [`<progress>`](/Tags/progress)                                 | Represents the progress of a task        |
+| [`<progress>`](/Tags/progress.md)                                 | Represents the progress of a task        |
 | `<q>`                                        | Defines a short quotation                |
 | `<s>`                                        | Defines text that is no longer correct   |
 | `<samp>`                                     | Defines sample output from a computer program |
