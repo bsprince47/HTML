@@ -15,3 +15,7 @@
     70%
 </meter>
 ```
+
+Low Green  
+Medium Yellow  
+High Green
